@@ -2,4 +2,8 @@
 # Author: Clark Whitehead
 # Date: 6-Jul-2021
 
-A very simple perceptron
+<img src="https://github.com/Clark-Whitehead/tinyNN/blob/master/index.png?raw=true" width="350" alt="sample_output">
+
+#### A very simple perceptron
+
+I saw this picture and thought it would be fun and quick to build from scratch.
