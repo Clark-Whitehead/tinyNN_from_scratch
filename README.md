@@ -2,7 +2,7 @@
 # Author: Clark Whitehead
 # Date: 6-Jul-2021
 
-<img src="https://github.com/Clark-Whitehead/tinyNN/blob/master/index.png?raw=true" width="350" alt="sample_output">
+<img src="https://github.com/Clark-Whitehead/tinyNN/blob/master/index.png?raw=true" width="500" alt="sample_output">
 
 #### A very simple perceptron
 
