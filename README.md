@@ -11,7 +11,7 @@
 #### 1. Clone this github repo onto your local machine by running the following code:
 
 ```
-git clone https://github.com/Clark-Whitehead/tinyNN.git
+git clone https://github.com/Clark-Whitehead/tinyNN_from_scratch.git
 ```
 
 #### 2. Install Jupyter Notebooks if you don't have it yet:
