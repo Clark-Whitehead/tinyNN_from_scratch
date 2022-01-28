@@ -30,7 +30,9 @@ jupyter notebook --notebook-dir ~/
 
 <p>http://localhost:8888/?token=d41eeb1fc4932d25a8c6c47f754a958af7e4dc36317ce076</p>
 
-#### 4. Navigate into the directory you just downloaded from our github
+#### 5. In your browser running Jupyter, navigate into the directory you just downloaded from our github
 
-#### 5. 
+#### 6. Click on file.ipynb
+
+#### 7. Run the cells in order
 
