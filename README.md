@@ -6,6 +6,15 @@
 
 #### A very simple perceptron
 
+#### Install Jupyter Notebooks if you don't have it yet:
+
+```
+pip install notebook
+```
+#### Start Jupyter Notebooks server( Then navigate to where you cloned this repository ):
+
+jupyter notebook --notebook-dir ~/
+
 I saw this picture and thought it would be fun and quick to build from scratch.
 
 ### 5. If a browser doesn't open automatically for Jupyter Notebooks, copy and paste the link from your terminal that looks like the following:
