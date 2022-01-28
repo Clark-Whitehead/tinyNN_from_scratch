@@ -2,9 +2,11 @@
 # Author: Clark Whitehead
 # Date: 6-Jul-2021
 
+### A very simple perceptron network
+
 <img src="https://github.com/Clark-Whitehead/tinyNN/blob/master/index.png?raw=true" width="500" alt="sample_output">
 
-#### A very simple perceptron
+
 
 #### Install Jupyter Notebooks if you don't have it yet:
 
