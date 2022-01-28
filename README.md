@@ -26,7 +26,7 @@ pip install notebook
 jupyter notebook --notebook-dir ~/
 ```
 
-#### 4. Jupyter notebook should have automatically opened a browser. If not find the link in your terminal that looks like the following, copy and paste it in an internet browser:
+#### 4. Jupyter notebook should have automatically opened a browser. If not find the link in your terminal that looks like the following; copy and paste it in an internet browser:
 
 <p>http://localhost:8888/?token=d41eeb1fc4932d25a8c6c47f754a958af7e4dc36317ce076</p>
 
