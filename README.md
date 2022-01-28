@@ -22,7 +22,9 @@ pip install notebook
 
 #### 3. Start Jupyter Notebooks server:
 
+```
 jupyter notebook --notebook-dir ~/
+```
 
 #### 4. Navigate into the directory you just downloaded from our github
 
